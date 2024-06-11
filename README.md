@@ -2,6 +2,8 @@
 Play the classic game of Tic-Tac-Toe against a challenging AI opponent powered by the Minimax algorithm!
 
 ----
+check out the GUI version https://github.com/unofficialdxnny/AITicTacToeGUI
+----
 
 ## Features
 - Human vs. AI gameplay
